@@ -15,7 +15,7 @@
 - Bootstrap
 
 ### Connect with me:
-- LinkedIn: [![LinkedIn] <a href="https://www.linkedin.com/feed/"><img width="32px" background="#4faff8" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/4lEpqub.png"/></a>
+- LinkedIn: <a href="https://www.linkedin.com/feed/"><img width="32px" background="#4faff8" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/4lEpqub.png"/></a>
 
 ##
 
